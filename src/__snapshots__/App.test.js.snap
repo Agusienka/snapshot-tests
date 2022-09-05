@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <h2
+    className="font-loader"
+    style={
+      Object {
+        "color": "#9ba1af",
+        "fontSize": "50px",
+      }
+    }
+  >
+    Welcome to my Snapshot-Testing page
+  </h2>
+  <a
+    className="App-link primary"
+    href="https://github.com/Agusienka"
+    rel="noopener noreferrer"
+    style={
+      Object {
+        "color": "#9ba1af",
+        "fontSize": "30px",
+      }
+    }
+    target="_blank"
+  >
+    GitHub Profile
+  </a>
+</div>
+`;

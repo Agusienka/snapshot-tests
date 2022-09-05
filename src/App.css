@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+  cursor: pointer;
+    user-select: none;
+    overflow: hidden;
+    background-color: #696a34;
+    size: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: goldenrod;
+  font-size: xx-large;
+  margin-bottom: 20rem;
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.github-card {
+  padding-top: 4rem;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blueviolet;
+ background-color: black;
+height: 100%;
+font-size: 2.1rem;
+}
+
+
+.font-loader {
+  font-family: 'Chilanka';
+  
+}
+
+Button {
+color: black;
+background-color: red;
+size: 3rem;
+}
+.footer {
+  background-color: darkslategrey;
+}
+
+.copy {
+  size: 100%;
+  padding-bottom: 0%;
+}

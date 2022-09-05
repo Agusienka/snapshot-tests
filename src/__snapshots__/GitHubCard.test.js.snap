@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+Array [
+  <div
+    className="copy"
+  >
+    <div
+      className="github-card"
+    >
+      <div
+        className="card"
+      >
+        <img
+          className="card-img-top"
+          src="https://avatars2.githubusercontent.com/u/101678267"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+            style={
+              Object {
+                "color": "#b66e5d",
+                "fontSize": 45,
+              }
+            }
+          >
+            AGUSIENKA
+          </div>
+          <p
+            className="font-loader card-text"
+            style={
+              Object {
+                "color": "#2c9ff7",
+              }
+            }
+          >
+            The most unusual item within an arm’s reach of me is Dan Moi jaw harp.
+          </p>
+          <div
+            className="fade alert alert-success show"
+            role="alert"
+          >
+            <div
+              className="alert-heading h4"
+              style={
+                Object {
+                  "color": "#9da462",
+                }
+              }
+            >
+              How's it going?!
+            </div>
+            <p
+              style={
+                Object {
+                  "color": "#bf9f77",
+                }
+              }
+            >
+              Didn't I ask you not to click it? But since you did, have fun with it!
+            </p>
+            <div
+              className="d-flex justify-content-end"
+            >
+              <button
+                className="btn btn-outline-success btn-lg"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Close me y'all!
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <footer
+    className="footer"
+  />,
+]
+`;
